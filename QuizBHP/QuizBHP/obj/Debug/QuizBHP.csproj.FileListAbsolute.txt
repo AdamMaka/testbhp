@@ -1,0 +1,11 @@
+C:\Users\Adam\Desktop\NEW FAJNA NOGA BROS\Praca dyplomowa\quizBHP\QuizBHP\QuizBHP\bin\Debug\QuizBHP.exe.config
+C:\Users\Adam\Desktop\NEW FAJNA NOGA BROS\Praca dyplomowa\quizBHP\QuizBHP\QuizBHP\bin\Debug\QuizBHP.exe
+C:\Users\Adam\Desktop\NEW FAJNA NOGA BROS\Praca dyplomowa\quizBHP\QuizBHP\QuizBHP\bin\Debug\QuizBHP.pdb
+C:\Users\Adam\Desktop\NEW FAJNA NOGA BROS\Praca dyplomowa\quizBHP\QuizBHP\QuizBHP\obj\Debug\QuizBHP.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\NEW FAJNA NOGA BROS\Praca dyplomowa\quizBHP\QuizBHP\QuizBHP\obj\Debug\QuizBHP.Form1.resources
+C:\Users\Adam\Desktop\NEW FAJNA NOGA BROS\Praca dyplomowa\quizBHP\QuizBHP\QuizBHP\obj\Debug\QuizBHP.Properties.Resources.resources
+C:\Users\Adam\Desktop\NEW FAJNA NOGA BROS\Praca dyplomowa\quizBHP\QuizBHP\QuizBHP\obj\Debug\QuizBHP.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\NEW FAJNA NOGA BROS\Praca dyplomowa\quizBHP\QuizBHP\QuizBHP\obj\Debug\QuizBHP.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\NEW FAJNA NOGA BROS\Praca dyplomowa\quizBHP\QuizBHP\QuizBHP\obj\Debug\QuizBHP.exe
+C:\Users\Adam\Desktop\NEW FAJNA NOGA BROS\Praca dyplomowa\quizBHP\QuizBHP\QuizBHP\obj\Debug\QuizBHP.pdb
+C:\Users\Adam\Desktop\NEW FAJNA NOGA BROS\Praca dyplomowa\quizBHP\QuizBHP\QuizBHP\obj\Debug\QuizBHP.Form2.resources
